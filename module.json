@@ -1,0 +1,10 @@
+{
+  "code" : "mv-infinispan",
+  "description" : "Infinispan storage",
+  "license" : "GPL",
+  "currentVersion" : "1.0.0",
+  "isInDraft" : true,
+  "autoCommit" : false,
+  "moduleDependencies" : [ ],
+  "moduleFiles" : [ ]
+}
