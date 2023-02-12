@@ -10,11 +10,6 @@
   "transactionType" : "SAME",
   "executionRoles" : [ ],
   "sourcingRoles" : [ ],
-  "mavenDependencies" : [ {
-    "groupId" : "org.infinispan",
-    "artifactId" : "infinispan-query",
-    "version" : "9.4.16.Final",
-    "coordinates" : "org.infinispan:infinispan-query:9.4.16.Final"
-  } ],
+  "mavenDependencies" : [ ],
   "importScriptInstances" : [ ]
 }
