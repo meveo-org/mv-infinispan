@@ -1,0 +1,20 @@
+{
+  "code" : "org.meveo.modules.infinispan.InfinispanStorage",
+  "inputs" : [ ],
+  "outputs" : [ {
+    "name" : "storageType",
+    "type" : "DBStorageType"
+  } ],
+  "generateOutputs" : false,
+  "type" : "JAVA",
+  "transactionType" : "SAME",
+  "executionRoles" : [ ],
+  "sourcingRoles" : [ ],
+  "mavenDependencies" : [ {
+    "groupId" : "org.infinispan",
+    "artifactId" : "infinispan-query",
+    "version" : "9.4.16.Final",
+    "coordinates" : "org.infinispan:infinispan-query:9.4.16.Final"
+  } ],
+  "importScriptInstances" : [ ]
+}
