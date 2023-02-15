@@ -11,7 +11,6 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.stream.Collectors;
 import java.util.ArrayList;
-import org.infinispan.persistence.sifs.configuration.SoftIndexFileStoreConfigurationBuilder;
 import org.infinispan.configuration.cache.Index;
 
 import javax.naming.InitialContext;
